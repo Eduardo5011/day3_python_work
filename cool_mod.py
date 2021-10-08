@@ -1,13 +1,10 @@
-def square_footage(area):
-    length = 8
-    width = 6
-    for square in area:
-        print(x) 
+def square_foot(length, width):
+    return length + width
 
 
 
-def circum():
-    c = pi
+def circum(radius):
+    return round(3.1428 * radius,2)
     
     
         
